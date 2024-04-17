@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+
+.aap {
+    margin: 80px;
+    padding: 90px;
+    text-align: center;
+    border: 2px solid #090a09;
+    border-radius: 5px ;
+    background-color:#cd9f9f;
+  }
+  
+  
+  .aap h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(154, 23, 23);
+  }
+  
+  
+  .aap #ques {
+    font-size: 18px;
+    color: #0d093f;
+  }
+  
+
+  .aap .in {
+    margin-right: 10px;
+
+  }
+
+
+  #aap #btn:disabled {
+    background-color:rgb(195, 255, 0);
+    color:rgb(216, 191, 157);
+    cursor: not-allowed;
+  }
